@@ -125,3 +125,7 @@ footer {
     float: right;
     margin-left: 220px;
 }
+
+.gray {
+    color: gray;
+}
