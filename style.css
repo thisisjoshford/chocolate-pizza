@@ -1,4 +1,7 @@
-* {box-sizing: border-box;}
+* {
+    box-sizing: border-box;
+    max-width: 925px;
+}
 
 hr { 
     display: block;
@@ -7,7 +10,7 @@ hr {
     margin-left: auto;
     margin-right: auto;
     border-style: inset;
-    border-width: 1px;
+    border-width: 5px;
 } 
 header {
   width: 100%;
@@ -34,9 +37,6 @@ header {
     vertical-align: m;    
 }
 
-header {
-    
-}
 #del {
     margin-top: 1px;
     margin-bottom: 1px;
