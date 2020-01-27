@@ -66,3 +66,15 @@ h6 {
     text-indent: 50px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+#ingredients {
+    background-image: url('./assets/list-bg.png');
+    display: flex;
+    flex-direction: row;
+    ;
+
+}
+#column2 {
+    float: right;
+    margin-left: 250px;
+}
