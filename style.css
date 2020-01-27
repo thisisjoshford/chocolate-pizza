@@ -17,6 +17,17 @@ header {
   display: flex;
   flex-direction: row;   
 }
+h1 {
+    margin-bottom: 1px;
+    margin-top: 50px;
+}
+h6 {
+    margin-top: 1px;
+}
+
+#print {
+    text-align: right;
+}
 
 #delicious {
     display: flex;
@@ -29,6 +40,7 @@ header {
     width: 50%;
     text-align: right;
 }
+
 
 #logo {
     float: left;
