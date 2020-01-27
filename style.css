@@ -16,7 +16,10 @@ header {
 }
 
 #delicious {
-  width: 50%;
+    display: flex;
+    flex-direction: row;
+    width: 50%
+    
 }
 #navigation {
 
@@ -25,9 +28,24 @@ header {
 }
 
 #logo {
-    float: left;    
+    float: left;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: m;    
 }
 
 header {
+    
+}
+#del {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+#description {
+    margin-top: 1px;
+}
+
+#title {
+    margin: 1px;
     
 }
